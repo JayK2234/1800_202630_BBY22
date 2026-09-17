@@ -66,9 +66,13 @@ elmo-hikes/
 
 
 ## Contributors
+HEAD
 - **Your Name** - BCIT CST Student with a passion for outdoor adventures and user-friendly applications. Fun fact: Loves solving Rubik's Cubes in under a minute.
 - **Jay Kim** - BCIT CST Student
 - **Teammate Name** - BCIT CST Student, Frontend enthusiast with a knack for creative design. Fun fact: Has a collection of over 50 houseplants.
+
+- **Owen Smith** - BCIT CST Student who likes coding and gaming.
+develop
 
 ---
 
