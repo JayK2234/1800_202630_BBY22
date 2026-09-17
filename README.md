@@ -66,8 +66,12 @@ elmo-hikes/
 
 
 ## Contributors
+ HEAD
 - **Your Name** - BCIT CST Student with a passion for outdoor adventures and user-friendly applications. Fun fact: Loves solving Rubik's Cubes in under a minute.
 - **Michael Kuhlman** - BCIT CST Student, likes to program in python. Fun fact: Plays drums in a band.
+
+- **Owen Smith** - BCIT CST Student who likes coding and gaming.
+ develop
 
 ---
 
